@@ -17,7 +17,7 @@
     "react-jss": "^10.5.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.12.13",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/preset-env": "^7.12.13",
     "@babel/preset-react": "^7.12.10",
